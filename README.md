@@ -15,3 +15,7 @@ As we see in 2017 majority of the companies that we were comparing were up excep
 #### 2018 Orginal Script Vs. Refactored Script
 ![Orginal Sctipt](https://github.com/Cooofy/stocks-analysis/blob/main/Module%202%20%20-%202018%20Orginal%20Script.png)
 ![Regactored Script](https://github.com/Cooofy/stocks-analysis/blob/main/VBA_Challenge_2018.png)
+
+### Summary
+
+The advantages with refactoring a code are that it takes less time to execute and the disadvantages would with that it takes a lot of time to make changes whether they are big or small to the original code. With our code here the clear advantage is that we are only going through the “For” loop once as with the original code we are going through the “For” loop twelve times. Even though both codes get you the same results, the refactored one executes much faster, however it does take time to rewrite the code even if some of it stays the same. 
