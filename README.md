@@ -8,5 +8,10 @@ Using the dataset for the years 2017 and 2018 we are converting daily returns fo
 
 As we see in 2017 majority of the companies that we were comparing were up except TERP. However once 2018 when there was a market crash only two companies came out on up and had good returns. While comparing the two years using the original script and refactored script, we can barely tell the difference on the time it takes to execute each year. However by creating a timer we can clearly see there is a difference in timing between the two scripts as see below.
 
+#### 2017 Orginal Script Vs. Refactored Script
+![Orginal Sctipt](https://github.com/Cooofy/stocks-analysis/blob/main/Module%202%20%20-%202017%20Orginal%20Script.png)
+![Regactored Script](https://github.com/Cooofy/stocks-analysis/blob/main/VBA_Challenge_2017.png)
 
-
+#### 2018 Orginal Script Vs. Refactored Script
+![Orginal Sctipt](https://github.com/Cooofy/stocks-analysis/blob/main/Module%202%20%20-%202018%20Orginal%20Script.png)
+![Regactored Script](https://github.com/Cooofy/stocks-analysis/blob/main/VBA_Challenge_2018.png)
